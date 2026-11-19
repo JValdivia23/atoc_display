@@ -272,19 +272,34 @@
   ],
   "research": [
     {
+      "tag": "PhD defenses",
+      "title": "Three ATOC doctorates in October",
+      "people": "Dr. Jairo Valdivia-Prado · Dr. Tina Geller · Dr. Yu-Wen Chen",
+      "blurb": "Jairo Valdivia-Prado, advised by Katja Friedrich, on observations of cloud-top generating cells. Tina Geller, advised by Melissa Moulton of NCAR and Weiqing Han, on how water circulates through a chain of connected Beaufort Sea lagoons. Yu-Wen Chen, advised by Sebastian Schmidt, on how the spatial complexity of clouds and surfaces shows up in satellite and airborne spectrometry. Congratulations to all three.",
+      "image": "",
+      "until": "2027-01-18"
+    },
+    {
+      "tag": "Field campaign",
+      "title": "Five weeks of drone flights in late-winter Antarctica",
+      "people": "John Cassano · ATOC and CIRES — with Kara Hartig",
+      "blurb": "Cassano and Hartig spent early September to early October in Antarctica, flying quadcopter drones to observe the late-winter atmospheric boundary layer — the lowest part of the atmosphere, where it meets the ice.",
+      "image": "",
+      "until": "2027-01-18"
+    },
+    {
       "tag": "New publication",
-      "title": "Arctic winter clouds barely notice the weather around them",
-      "people": "Kara Hartig · ATOC",
-      "blurb": "Hartig, with John Cassano, Matthew Shupe and Amy Solomon, used more than a decade of continuous observations from the North Slope of Alaska to ask what sets the liquid water in winter clouds. The answer is almost nothing local — not temperature, not moisture, not wind direction, not the large-scale circulation. Atmospheric Chemistry and Physics, September 2026 — doi.org/10.5194/acp-26-12689-2026",
+      "title": "A sun-watching CubeSat turned around to measure Earth",
+      "people": "McKenzie Hawkins · ATOC graduate student",
+      "blurb": "Hawkins and co-authors pointed a LASP-built CubeSat, designed to observe the Sun, back at Earth. Its radiation-budget measurements agreed with NASA’s CERES instruments to within about 1.2%, suggesting small satellites could help guard against gaps in the long-term record — and that solar instruments could be built to watch Earth too. Atmospheric Measurement Techniques, October 2026 — doi.org/10.5194/amt-19-6229-2026",
       "image": ""
     },
     {
-      "tag": "On PBS",
-      "title": "ATOC’s Greenland campaign features in the PBS series “Ages of Ice”",
-      "people": "Sebastian Schmidt’s group · Vikas Nataraja and Ken Hirata",
-      "blurb": "ARCSIX, the NASA airborne campaign over Greenland led by Sebastian Schmidt, appears in episode two of Ages of Ice. Vikas Nataraja and Ken Hirata supported the mission in the field — pictured with the ARCSIX sticker they had just added to a hangar door, a campaign tradition, and with NASA’s P-3 after some work on the group’s sensors. “Polar Seas” airs Wednesday, September 23 at 10 p.m. ET on PBS, the PBS app, and PBS’s YouTube channel. #AgesofIce",
-      "image": "images/arcsix-vikas-ken.jpg",
-      "until": "2026-09-23"
+      "tag": "New publication",
+      "title": "Arctic winter clouds barely notice the weather around them",
+      "people": "Kara Hartig · CIRES visiting postdoctoral fellow",
+      "blurb": "Hartig, with John Cassano, Matthew Shupe and Amy Solomon, used more than a decade of continuous observations from the North Slope of Alaska to ask what sets the liquid water in winter clouds. The answer is almost nothing local — not temperature, not moisture, not wind direction, not the large-scale circulation. Atmospheric Chemistry and Physics, September 2026 — doi.org/10.5194/acp-26-12689-2026",
+      "image": ""
     },
     {
       "tag": "NSF CAREER Award",
@@ -292,20 +307,6 @@
       "people": "Andrew Winters · ATOC",
       "blurb": "The award funds work on the global characteristics, predictability, and future changes of polar–subtropical jet stream superposition events.",
       "image": "images/andrew-winters.jpg"
-    },
-    {
-      "tag": "Student award",
-      "title": "Genevieve Clow wins the CESM Graduate Student Award",
-      "people": "Genevieve Clow · ATOC graduate student",
-      "blurb": "Presented at the CESM Workshop in Boulder in June 2026. The award recognizes outstanding graduate research in Earth system modeling.",
-      "image": "images/clow-cesm-award.jpg"
-    },
-    {
-      "tag": "AMS honors",
-      "title": "Three American Meteorological Society honors",
-      "people": "CUBAMS · Peter Blanken · Matthew Shupe",
-      "blurb": "CUBAMS, the CU Boulder AMS student chapter, won Local Student Chapter of the Year. Peter Blanken (Geography, who teaches an ATOC course) and Matthew Shupe (CIRES) were both elected AMS Fellows.",
-      "image": ""
     },
     {
       "tag": "New publication",
